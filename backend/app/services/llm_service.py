@@ -22,7 +22,7 @@ class LLMService:
         # Gemini
         if os.getenv("GEMINI_API_KEY"):
             genai.configure(api_key=os.getenv("GEMINI_API_KEY"))
-            self.gemini_model = genai.GenerativeModel('gemini-pro')
+            self.gemini_model = genai.GenerativeModel('gemini-2.5-pro')
         
         # OpenAI
         if os.getenv("OPENAI_API_KEY"):

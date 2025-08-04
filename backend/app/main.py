@@ -53,6 +53,10 @@ class ChatResponse(BaseModel):
     context_used: bool = False
     debug_info: Optional[dict] = None
 
+    model_config = {
+        "protected_namespaces": (),
+    }
+
 class UploadResponse(BaseModel):
     message: str
     filename: str
