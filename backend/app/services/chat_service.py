@@ -30,7 +30,7 @@ class ChatService:
         self, 
         message: str, 
         session_id: Optional[str] = None,
-        use_rag: bool = True,
+        use_rag: bool = True,  # Riattivato per usare il nuovo documento di test
         provider: Optional[LLMProvider] = None
     ) -> Dict[str, Any]:
         """Genera una risposta alla domanda dell'utente"""
@@ -62,11 +62,11 @@ class ChatService:
         if use_rag and self.vector_store.index.ntotal > 0:
             print(f"🔍 RAG ATTIVO - Ricerca contesto per: '{message[:50]}...'")
             
-            # Cerca documenti rilevanti
+            # Cerca documenti rilevanti (riduco da 5 a 3 per evitare contesti troppo lunghi)
             search_results = self.vector_store.search_by_text(
                 message,
                 self.document_processor.embedding_model,
-                k=5,
+                k=3,
                 threshold=0.3
             )
             
