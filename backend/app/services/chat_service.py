@@ -58,7 +58,7 @@ class ChatService:
         # Recupera contesto se RAG è abilitato
         context = ""
         sources = []
-        
+
         if use_rag and self.vector_store.index.ntotal > 0:
             print(f"🔍 RAG ATTIVO - Ricerca contesto per: '{message[:50]}...'")
             
@@ -75,7 +75,8 @@ class ChatService:
                 context_parts = []
                 for i, result in enumerate(search_results):
                     score = result.get('score', 0)
-                    file_name = result['metadata']['metadata']['file_name']
+                    # Correzione: accedi direttamente a 'file_name' nei metadati
+                    file_name = result['metadata'].get('file_name', 'sconosciuto')
                     text_preview = result['text'][:100]
                     print(f"   {i+1}. {file_name} (score: {score:.3f}) - {text_preview}...")
                     

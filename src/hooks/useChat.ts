@@ -1,7 +1,7 @@
 import { useState, useCallback, useEffect } from 'react';
 import type { Message, ChatState } from '../types/chat';
 
-const API_URL = import.meta.env.VITE_API_URL || 'http://localhost:8002';
+const API_URL = import.meta.env.VITE_API_URL || 'http://localhost:8000';
 
 export const useChat = () => {
   const [chatState, setChatState] = useState<ChatState>({
@@ -77,10 +77,10 @@ export const useChat = () => {
       }));
 
     } catch (error) {
-      console.error("Errore durante l'invio del messaggio:", error);
+      console.error("Dettaglio errore fetch:", error);
       const errorMessage: Message = {
         id: (Date.now() + 1).toString(),
-        content: "Oops! Qualcosa è andato storto. Riprova più tardi.",
+        content: "Oops! Qualcosa è andato storto. Controlla la console del browser (F12) per i dettagli.",
         role: 'assistant',
         timestamp: new Date(),
       };
