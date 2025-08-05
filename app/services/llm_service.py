@@ -20,9 +20,17 @@ class LLMService:
     def setup_clients(self):
         """Configura i client per le API"""
         # Gemini
+        self.gemini_model = None
         if os.getenv("GEMINI_API_KEY"):
-            genai.configure(api_key=os.getenv("GEMINI_API_KEY"))
-            self.gemini_model = genai.GenerativeModel('gemini-1.5-flash')
+            try:
+                genai.configure(api_key=os.getenv("GEMINI_API_KEY"))
+                self.gemini_model = genai.GenerativeModel('gemini-1.5-flash')
+                print("✅ Gemini configurato correttamente")
+            except Exception as e:
+                print(f"❌ Errore configurazione Gemini: {e}")
+                self.gemini_model = None
+        else:
+            print("⚠️ GEMINI_API_KEY non trovata")
         
         # OpenAI
         if os.getenv("OPENAI_API_KEY"):
@@ -48,7 +56,15 @@ class LLMService:
         
         try:
             if provider == LLMProvider.GEMINI:
-                return await self._call_gemini(full_prompt, max_tokens, temperature)
+                result = await self._call_gemini(full_prompt, max_tokens, temperature)
+                if "error" in result and result["error"] == "gemini_not_configured":
+                    # Fallback a risposta predefinita
+                    return {
+                        "response": "🎓 Ciao! Sono ChatBot Erasmus! Per il momento sto funzionando in modalità demo. Per domande specifiche su Erasmus, contatta i coordinatori del tuo corso. Come posso aiutarti?",
+                        "model_used": "demo",
+                        "error": None
+                    }
+                return result
             elif provider == LLMProvider.OPENAI:
                 return await self._call_openai(full_prompt, max_tokens, temperature)
             elif provider == LLMProvider.ANTHROPIC:
@@ -103,6 +119,13 @@ RISPOSTA:"""
     async def _call_gemini(self, prompt: str, max_tokens: int, temperature: float) -> Dict[str, Any]:
         """Chiama l'API di Google Gemini"""
         try:
+            if not self.gemini_model:
+                return {
+                    "response": "❌ Gemini non è configurato correttamente. Verifica la GEMINI_API_KEY.",
+                    "model_used": "gemini",
+                    "error": "gemini_not_configured"
+                }
+                
             response = self.gemini_model.generate_content(
                 prompt,
                 generation_config=genai.types.GenerationConfig(
