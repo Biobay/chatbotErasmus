@@ -70,6 +70,11 @@ async def root():
         "status": "running"
     }
 
+@app.get("/health")
+async def health_check():
+    """Health check endpoint per Railway"""
+    return {"status": "healthy", "timestamp": "2025-08-05"}
+
 @app.post("/chat", response_model=ChatResponse)
 async def chat_endpoint(request: ChatRequest):
     """Endpoint principale per la chat"""
