@@ -1,0 +1,600 @@
+Risposta: Sì, devi comunque inviare il modulo di accettazione per confermare la tua volontà di partecipare al programma. Successivamente, il coordinatore ti contatterà per proporti le sedi residue. Se nessuna delle sedi disponibili ti interessa, potrai rifiutare senza alcuna conseguenza per i bandi futuri.
+Domanda: Se mi è stata assegnata una meta (es. la terza scelta), ma qualcuno rinuncia a una delle mie scelte superiori, posso scalare?
+Risposta: Sì, è possibile. Quando invii l'accettazione, stai accettando di partecipare al programma Erasmus, non necessariamente la meta specifica. Se si liberano posti nelle tue preferenze più alte, potresti essere "ripescato" e vedere la tua assegnazione cambiare nella graduatoria definitiva.
+II. Borse di Studio: Tipologie e Requisiti
+Domanda: Quante borse di studio ci sono in totale e quali sono le differenze?
+Risposta: Ci sono tre tipi di contributi economici:
+Borsa di Studio UE (Erasmus+): È il contributo principale, erogato dall'Unione Europea. Viene data ai "vincitori" (idonei con borsa) e non dipende dall'ISEE. L'80% viene erogato dopo un mese dalla partenza, il restante 20% al rientro.
+Contributo Integrativo del Politecnico/MIUR: È un'integrazione alla borsa UE, il cui importo mensile dipende dalla fascia ISEE dello studente. Viene erogata tutta insieme al rientro, solo dopo aver certificato di aver conseguito almeno 12 CFU.
+Integrazione ADISU: È un ulteriore contributo per gli studenti già borsisti ADISU. Va richiesto separatamente tramite il portale ADISU e segue le loro tempistiche di erogazione.
+Domanda: Se parto "senza borsa" (zero-grant), posso comunque ricevere qualche contributo economico?
+Risposta: Sì. Anche se non ricevi la borsa di studio base dell'UE, se consegui almeno 12 CFU all'estero, hai comunque diritto a richiedere il contributo integrativo del Politecnico/MIUR (basato sull'ISEE) e, se sei borsista ADISU, l'integrazione ADISU.
+Domanda: A quanto ammonta la borsa di studio del MIUR (quella per i 12 CFU)?
+Risposta: L'importo varia in base alla fascia ISEE dello studente, come indicato nella tabella presente nel bando Erasmus.
+III. Procedure Post-Graduatoria e Mobilità
+Domanda: Se le graduatorie escono dopo le scadenze di application di alcune università estere, cosa succede?
+Risposta: È un rischio. Se la graduatoria esce troppo tardi, potresti non fare in tempo a iscriverti per il primo semestre. In quel caso, una soluzione comune è quella di posticipare la partenza al secondo semestre, accordandosi con il coordinatore.
+Domanda: Cosa succede se accetto la mobilità ma poi decido di rinunciare più avanti?
+Risposta: Se rinunci dopo aver formalmente accettato, la "penale", come specificato nel bando, consiste nell'esclusione dalla partecipazione al bando Erasmus+ per l'anno accademico successivo.
+Domanda: Come funziona per l'alloggio?
+Risposta: La ricerca dell'alloggio è una responsabilità dello studente. Il Politecnico non se ne occupa. Puoi chiedere supporto all'ufficio internazionale dell'università ospitante, che spesso fornisce contatti o convenzioni con residenze studentesche. È consigliabile usare siti specializzati, gruppi Facebook e mettersi in contatto con altri studenti diretti nella stessa città.
+Domanda: È possibile cambiare la meta assegnata con un'altra di mia preferenza?
+Risposta: No, una volta che ti è stata assegnata una meta (es. la tua prima scelta), non puoi cambiarla con una delle tue preferenze inferiori. La scelta va ponderata al momento della compilazione della domanda.
+IV. Learning Agreement e Aspetti Didattici
+Domanda: Come scelgo il semestre in cui partire?
+Risposta: La scelta del semestre dipende dagli esami che vuoi sostenere. Devi cercare sul sito dell'università estera quali corsi sono offerti nel primo e nel secondo semestre e decidere di conseguenza. Questa scelta va indicata nel modulo di accettazione.
+Domanda: Come trovo gli esami da sostenere all'estero e come li comunico?
+Risposta: Devi cercare i piani di studio sul sito dell'università ospitante, verificare la lingua di erogazione e il semestre. Una volta fatta una selezione, dovrai inserirli nel Learning Agreement, che andrà poi discusso e approvato dal tuo Coordinatore Erasmus.
+V. Dubbi e Casi Particolari
+Domanda: A parità di punteggio, chi ha la priorità?
+Risposta: A parità di punteggio, la priorità viene data allo studente anagraficamente più giovane.
+Domanda: L'università estera può richiedere il pagamento di piccole quote?
+Risposta: Sì. Come specificato nel bando, l'università ospitante non può richiedere tasse di iscrizione, ma può richiedere il pagamento di piccoli contributi per servizi specifici (es. laboratori, assicurazioni, associazioni studentesche). È bene informarsi in anticipo su eventuali costi extra.
+
+
+Il risultato è una base di conoscenza strutturata in formato Domanda/Risposta (Q&A), ideale per addestrare un chatbot.
+I. Graduatorie e Accettazione della Sede
+Domanda: Sono uscite le graduatorie e non riesco ad accettare la sede su Esse3. È normale?
+Risposta: Sì, è normale. L'opzione per confermare la sede assegnata sul portale Esse3 non è immediatamente disponibile. Solitamente si attiva il giorno lavorativo successivo alla pubblicazione delle graduatorie. Non devi preoccuparti, avrai comunque tempo per completare la procedura entro la scadenza.
+Domanda: Qual è la scadenza per accettare o rifiutare la meta?
+Risposta: Hai 5 giorni lavorativi dalla data di pubblicazione delle graduatorie. La scadenza precisa è indicata nell'avviso ufficiale sul sito del Politecnico (per il 2022, era il 2 maggio alle 23:59).
+Domanda: Cosa devo fare se ho "sede da assegnare"? Devo accettare lo stesso?
+Risposta: Se risulti "idoneo non assegnatario" (quindi senza una sede), non devi fare nulla al momento. Non devi inviare il modulo di accettazione. Sarà il tuo Coordinatore Erasmus di Dipartimento a contattarti dopo la scadenza delle rinunce per proporti le sedi rimaste disponibili, seguendo l'ordine di graduatoria.
+Domanda: Se ho "sede da assegnare" e non faccio nulla, vengo considerato rinunciatario?
+Risposta: No. La procedura prevede che tu attenda di essere contattato. Se non fai nulla, semplicemente aspetterai la comunicazione del tuo coordinatore. Se poi rifiuterai le sedi proposte, non ci saranno penalità per i bandi futuri.
+Domanda: Ho notato un'incongruenza nell'assegnazione delle sedi (es. una meta è stata data a chi ha un punteggio più basso del mio). Cosa posso fare?
+Risposta: Se ritieni ci sia stato un errore palese nell'assegnazione, la prima cosa da fare è segnalarlo via email all'Ufficio Mobilità Internazionale (international@poliba.it) e, se necessario, al tuo coordinatore Erasmus.
+II. Borse di Studio: Tipologie e Requisiti
+Domanda: Se parto "senza borsa" (zero-grant), posso comunque ricevere qualche contributo economico?
+Risposta: Sì. Anche se non ricevi la borsa di studio base dell'UE, se consegui almeno 12 CFU all'estero, hai comunque diritto a richiedere il contributo integrativo del Politecnico/MIUR (basato sull'ISEE) e, se sei borsista ADISU, l'integrazione ADISU.
+Domanda: Quante borse di studio ci sono in totale e quali sono le differenze?
+Risposta: Ci sono tre tipi di contributi economici:
+Borsa di Studio UE (Erasmus+): È il contributo principale, erogato dall'Unione Europea. Viene data ai "vincitori" (idonei con borsa) e non dipende dall'ISEE. L'80% viene erogato dopo un mese dalla partenza, il restante 20% al rientro.
+Contributo Integrativo del Politecnico/MIUR: È un'integrazione alla borsa UE, il cui importo mensile dipende dalla fascia ISEE dello studente. Viene erogata tutta insieme al rientro, solo dopo aver certificato di aver conseguito almeno 12 CFU.
+Integrazione ADISU: È un ulteriore contributo per gli studenti già borsisti ADISU. Va richiesto separatamente tramite il portale ADISU e segue le loro tempistiche di erogazione.
+III. Procedure Post-Graduatoria e Mobilità
+Domanda: Se le graduatorie escono dopo le scadenze di application di alcune università estere, cosa succede?
+Risposta: È un rischio. Se la graduatoria esce troppo tardi, potresti non fare in tempo a iscriverti per il primo semestre. In quel caso, una soluzione comune è quella di posticipare la partenza al secondo semestre, accordandosi con il coordinatore.
+Domanda: Cosa succede se accetto la mobilità ma poi decido di rinunciare più avanti?
+Risposta: Se rinunci dopo aver formalmente accettato, la "penale", come specificato nel bando, consiste nell'esclusione dalla partecipazione al bando Erasmus+ per l'anno accademico successivo. Questa regola si applica solo al Politecnico di Bari; non ti preclude la partecipazione a bandi di altre università in futuro.
+Domanda: Come funziona per l'alloggio?
+Risposta: La ricerca dell'alloggio è una responsabilità dello studente. Il Politecnico non se ne occupa. Puoi chiedere supporto all'ufficio internazionale dell'università ospitante, che spesso fornisce contatti o convenzioni con residenze studentesche. È consigliabile usare siti specializzati, gruppi Facebook e mettersi in contatto con altri studenti diretti nella stessa città.
+Domanda: È possibile cambiare la meta assegnata con un'altra di mia preferenza?
+Risposta: No. La procedura di assegnazione è automatizzata e basata sulle preferenze che hai indicato. Una volta che ti è stata assegnata una meta, non puoi cambiarla con una delle tue preferenze inferiori.
+IV. Learning Agreement e Aspetti Didattici
+Domanda: Come scelgo il semestre in cui partire? Devo deciderlo ora?
+Risposta: Sì, la scelta del semestre (primo o secondo) va indicata nel modulo di accettazione. Per decidere, devi cercare sul sito dell'università estera quali corsi sono offerti nel primo e nel secondo semestre e scegliere il periodo più adatto per gli esami che vuoi sostenere.
+Domanda: Dove trovo i programmi degli esami del mio piano di studi per confrontarli?
+Risposta: I programmi degli esami del Politecnico si trovano sul portale Esse3 o sui siti dei singoli docenti.
+V. Bandi Futuri
+Domanda: Quando esce il bando per l'Erasmus Traineeship (tirocinio)?
+Risposta: I bandi per il tirocinio vengono pubblicati periodicamente durante l'anno accademico. Solitamente ne esce uno verso dicembre/gennaio per le partenze nell'anno successivo.
+VI. Calcolo del Punteggio
+Domanda: Perché il mio punteggio in graduatoria è più basso della mia media ponderata su Esse3?
+Risposta: Il calcolo del punteggio per la graduatoria Erasmus non è la semplice media ponderata. La formula, presente nel bando, considera anche il numero di CFU acquisiti rispetto a quelli previsti e il tempo trascorso dall'immatricolazione. Inoltre, a differenza della media di laurea, per l'Erasmus non vengono esclusi i voti più bassi, il che può abbassare il punteggio finale rispetto alla media che vedi su Esse3.
+
+
+Il risultato è una base di conoscenza strutturata in formato Domanda/Risposta (Q&A), ideale per addestrare un chatbot.
+I. Graduatorie: Interpretazione e Prossimi Passi
+Domanda: Sono uscite le graduatorie e non riesco ad accettare la sede su Esse3. È normale?
+Risposta: Sì, è normale. L'opzione per confermare la sede assegnata sul portale Esse3 non è immediatamente disponibile. Solitamente si attiva il giorno lavorativo successivo alla pubblicazione delle graduatorie (in questo caso, dal 28 aprile).
+Domanda: Qual è la scadenza per accettare o rifiutare la meta?
+Risposta: Hai 5 giorni lavorativi dalla data di pubblicazione delle graduatorie. La scadenza precisa è indicata nell'avviso ufficiale sul sito del Politecnico (per il 2022, era il 4 maggio).
+Domanda: Cosa devo fare se ho "sede da assegnare"? Devo accettare lo stesso?
+Risposta: Se risulti "idoneo non assegnatario" (quindi senza una sede), non devi fare nulla al momento. Non devi inviare il modulo di accettazione. Sarà il tuo Coordinatore Erasmus di Dipartimento a contattarti dopo la scadenza delle rinunce per proporti le sedi rimaste disponibili, seguendo l'ordine di graduatoria.
+Domanda: Se ho "sede da assegnare", il coordinatore mi proporrà una sola scelta o più sedi?
+Risposta: Il coordinatore dovrebbe proporti una scelta tra tutte le sedi rimaste disponibili dopo le rinunce, non una singola opzione "prendere o lasciare".
+Domanda: Ho notato un'incongruenza nell'assegnazione delle sedi (es. una meta è stata data a chi ha un punteggio più basso del mio). Cosa è successo?
+Risposta: Si sono verificati dei problemi tecnici nell'elaborazione delle prime graduatorie, che includevano anche studenti che dovevano essere esclusi. Per questo motivo, le graduatorie sono state ritirate e ripubblicate. Se noti ancora incongruenze, segnalalo all'Ufficio Mobilità.
+II. Borse di Studio: Tipologie e Requisiti
+Domanda: Se parto "senza borsa" (zero-grant), posso comunque ricevere qualche contributo economico?
+Risposta: Sì. Anche se non ricevi la borsa di studio base dell'UE, se consegui almeno 12 CFU all'estero, hai comunque diritto a richiedere il contributo integrativo del Politecnico/MIUR (basato sull'ISEE) e, se sei borsista ADISU, l'integrazione ADISU.
+Domanda: Quante borse di studio ci sono in totale e quali sono le differenze?
+Risposta: Ci sono tre tipi di contributi economici:
+Borsa di Studio UE (Erasmus+): È il contributo principale, erogato dall'Unione Europea. Viene data ai "vincitori" (idonei con borsa) e non dipende dall'ISEE. L'80% viene erogato dopo un mese dalla partenza, il restante 20% al rientro.
+Contributo Integrativo del Politecnico/MIUR: È un'integrazione alla borsa UE, il cui importo mensile dipende dalla fascia ISEE dello studente. Viene erogata tutta insieme al rientro, solo dopo aver certificato di aver conseguito almeno 12 CFU.
+Integrazione ADISU: È un ulteriore contributo per gli studenti già borsisti ADISU. Va richiesto separatamente tramite il portale ADISU e segue le loro tempistiche di erogazione.
+III. Procedure Post-Graduatoria e Mobilità
+Domanda: Se le graduatorie escono dopo le scadenze di application di alcune università estere, cosa succede?
+Risposta: È un rischio. Se la graduatoria esce troppo tardi, potresti non fare in tempo a iscriverti per il primo semestre. In quel caso, una soluzione comune è quella di posticipare la partenza al secondo semestre, accordandosi con il coordinatore.
+Domanda: Cosa succede se accetto la mobilità ma poi decido di rinunciare più avanti?
+Risposta: Se rinunci dopo aver formalmente accettato, la "penale", come specificato nel bando, consiste nell'esclusione dalla partecipazione al bando Erasmus+ per l'anno accademico successivo. Questa regola si applica solo al Politecnico di Bari; non ti preclude la partecipazione a bandi di altre università in futuro.
+Domanda: È possibile cambiare la meta assegnata con un'altra di mia preferenza?
+Risposta: No. La procedura di assegnazione è automatizzata e basata sulle preferenze che hai indicato. Una volta che ti è stata assegnata una meta, non puoi cambiarla.
+IV. Learning Agreement e Aspetti Didattici
+Domanda: Come scelgo il semestre in cui partire? Devo deciderlo ora?
+Risposta: Sì, la scelta del semestre (primo o secondo) va indicata nel modulo di accettazione. Per decidere, devi verificare le scadenze di application sul sito dell'università estera. Se la scadenza per il primo semestre è troppo vicina o già passata, devi indicare il secondo semestre.
+Domanda: Dove trovo i programmi degli esami del mio piano di studi per confrontarli?
+Risposta: I programmi degli esami del Politecnico si trovano sul portale Esse3 o sui siti dei singoli docenti.
+Domanda: Dove trovo il modulo del Learning Agreement? E quando va compilato?
+Risposta: Il modulo si trova nella sezione "Modulistica Outgoing" del sito internazionale del Politecnico. Va compilato dopo aver accettato la sede, in vista della procedura di application dell'università ospitante.
+Domanda: Se sono iscritto a una laurea triennale, posso scegliere esami di corsi di laurea magistrale (MSc) all'estero?
+Risposta: Sì, generalmente è possibile, a patto che l'università ospitante lo consenta e che tu trovi una corrispondenza valida con un esame del tuo piano di studi, da far approvare al tuo coordinatore.
+V. Bandi Futuri
+Domanda: Quando esce il bando per l'Erasmus Traineeship (tirocinio)?
+Risposta: I bandi per il tirocinio vengono pubblicati periodicamente durante l'anno accademico. Solitamente ne esce uno verso dicembre/gennaio per le partenze nell'anno successivo.
+VI. Calcolo del Punteggio
+Domanda: Perché il mio punteggio in graduatoria è più basso della mia media ponderata su Esse3?
+Risposta: Il calcolo del punteggio per la graduatoria Erasmus non è la semplice media ponderata. La formula, presente nel bando, considera anche il numero di CFU acquisiti rispetto a quelli previsti. Inoltre, a differenza della media di laurea, per l'Erasmus non vengono esclusi i voti più bassi, il che può abbassare il punteggio finale rispetto alla media che vedi su Esse3.
+VII. Modulo di Accettazione
+Domanda: La dichiarazione di accettazione va inviata in formato PDF?
+Risposta: Sì, è sempre preferibile inviare documenti ufficiali in formato PDF.
+Domanda: Come si compila il modulo di accettazione? A mano o al PC?
+Risposta: È preferibile compilarlo al PC. Per la firma, puoi stamparlo, firmarlo a mano e poi scansionarlo.
+Domanda: Quale email devo usare per le comunicazioni, quella personale o istituzionale?
+Risposta: È fortemente consigliato usare sempre l'email istituzionale (@studenti.poliba.it) per tutte le comunicazioni ufficiali.
+
+
+. Bandi e Requisiti di Partecipazione
+Domanda: Quando esce il bando per l'Erasmus per studio?
+Risposta: Il bando principale per l'Erasmus per studio viene pubblicato solitamente tra gennaio e febbraio di ogni anno. Per l'anno accademico 2023/24, è stato pubblicato il 1° febbraio 2023.
+Domanda: Quando esce il bando per l'Erasmus Traineeship (tirocinio)?
+Risposta: I bandi per il tirocinio vengono pubblicati periodicamente durante l'anno. Per l'anno 2022/23, il bando "G.R.E.A.T." è stato pubblicato il 10 gennaio 2023.
+Domanda: Possono partecipare gli studenti del primo anno della triennale?
+Risposta: No. Per partecipare al bando per studio, devi essere iscritto almeno al secondo anno al momento della domanda, per poi partire durante il terzo anno o successivi. Questo perché uno dei requisiti è aver conseguito un numero minimo di CFU (solitamente 30), obiettivo difficile da raggiungere per una matricola entro la scadenza del bando.
+Domanda: Se faccio domanda al secondo anno, parto al terzo?
+Risposta: Esatto. La domanda si presenta nell'anno accademico precedente a quello della mobilità. Quindi, se fai domanda durante il tuo secondo anno, partirai per l'Erasmus durante il tuo terzo anno.
+Domanda: Le certificazioni linguistiche danno un punteggio aggiuntivo in graduatoria?
+Risposta: No, almeno per gli ultimi bandi le certificazioni linguistiche non danno più punti in graduatoria. Tuttavia, il possesso di una certificazione può essere un requisito di ammissione obbligatorio per alcune università estere.
+II. Procedure e Documenti
+Domanda: Dove trovo il modulo del Learning Agreement (LA)?
+Risposta: Il modulo del LA si trova nella sezione "Modulistica Outgoing" del sito internazionale del Politecnico.
+Domanda: Cosa è il documento "Attestato di permanenza"?
+Risposta: È il documento che certifica le date esatte di inizio e fine della tua mobilità. Deve essere firmato dall'università ospitante al tuo arrivo ("Arrival Certificate") e prima della tua partenza ("Certificate of Stay"). È un documento fondamentale per il calcolo e l'erogazione della borsa di studio.
+Domanda: Cos'è il "Transcript of Records" (ToR)?
+Risposta: È il certificato con l'elenco di tutti gli esami che hai sostenuto e verbalizzato fino a quel momento. Puoi scaricarlo da Esse3. L'università ospitante, a fine mobilità, rilascerà a sua volta un Transcript of Records con gli esami che hai superato lì.
+Domanda: Chi è il mio Coordinatore Erasmus di Dipartimento?
+Risposta:
+DEI (Ingegneria Informatica, Elettronica, Automazione): Prof. Maione
+DICATECH (Civile, Ambientale, Edile): Prof.ssa De Serio e Prof. Fiorito
+Il coordinatore è il tuo riferimento principale per l'approvazione del Learning Agreement.
+III. Corsi di Lingua e OLS (Online Linguistic Support)
+Domanda: Cosa è l'OLS e come funziona?
+Risposta: L'OLS è una piattaforma della Commissione Europea che offre un test di valutazione linguistica e dei corsi di lingua online. La procedura è la seguente:
+Test Iniziale: Prima di partire (o subito dopo l'arrivo), devi fare un test di valutazione per verificare il tuo livello di partenza.
+Corsi (obbligatori): Durante la mobilità, la piattaforma sblocca dei corsi di lingua che sei tenuto a seguire.
+Test Finale: A fine Erasmus, devi sostenere un test finale per valutare i progressi fatti.
+Tutta la procedura è obbligatoria e gestita tramite il portale OLS, a cui accedi con le credenziali che ricevi via email.
+Domanda: A chi devo inviare il risultato del test OLS?
+Risposta: Generalmente non è necessario inviare il risultato a nessuno. È una procedura gestita dalla piattaforma europea. Tuttavia, per dimostrare diligenza, alcuni studenti inviano uno screenshot o il certificato del test alla Dott.ssa Sammarco.
+Domanda: Cosa succede se al test finale OLS il mio livello è uguale o inferiore a quello iniziale?
+Risposta: Non succede nulla. Il test serve a fini statistici per la Commissione Europea e non ha conseguenze sulla tua borsa di studio o sulla tua carriera.
+IV. Aspetti Economici e Borse di Studio
+Domanda: Se non faccio la richiesta di erogazione della borsa ADISU in due rate, quando viene pagata?
+Risposta: Verrà erogata in un'unica soluzione, ma i tempi saranno molto più lunghi, solitamente molti mesi dopo la conclusione della mobilità e la convalida dei crediti.
+Domanda: A chi posso chiedere informazioni sulla borsa di studio ADISU?
+Risposta: Per tutte le questioni relative all'integrazione ADISU (importi, documentazione, scadenze), devi rivolgerti direttamente agli uffici dell'ADISU Puglia, in quanto è una procedura gestita interamente da loro.
+V. Aspetti Didattici e Mobilità
+Domanda: Quanti CFU posso sostenere in Erasmus?
+Risposta: Non c'è un limite massimo rigido, ma il carico di lavoro consigliato è di circa 30 CFU per semestre. Realisticamente, è difficile superare questa soglia.
+Domanda: Posso sostenere in Erasmus esami di anni precedenti che non ho ancora dato?
+Risposta: Sì, puoi inserire nel tuo Learning Agreement esami di qualsiasi anno del tuo piano di studi, a patto che trovi una corrispondenza nell'università estera e che il tuo coordinatore approvi.
+Domanda: Come faccio a sapere se i programmi degli esami corrispondono?
+Risposta: È una tua responsabilità. Devi cercare i syllabus (programmi dettagliati) sul sito dell'università ospitante e confrontarli con quelli degli esami del Politecnico. L'ideale sarebbe avere una buona sovrapposizione di argomenti.
+Domanda: L'Erasmus dura sempre un semestre intero o posso fare anche solo qualche mese?
+Risposta: La mobilità per studio è pensata per durare almeno un semestre accademico. Esistono forme di mobilità "breve" (short-term) ma sono più comuni per i tirocini o i dottorati.
+VI. Contatti e Comunicazioni
+Domanda: Il mio coordinatore (Maione/Pellegrino/Sammarco) non risponde alle email, come posso fare?
+Risposta: È un problema comune a causa dell'alto numero di richieste. Le strategie migliori sono:
+Contattarli su Microsoft Teams.
+Se non rispondono, recarsi di persona nel loro ufficio durante gli orari di ricevimento.
+Per questioni urgenti, chiedere aiuto ai rappresentanti degli studenti per far pervenire il messaggio.
+Domanda: Dove si trova l'ufficio della Dott.ssa Sammarco?
+Risposta: L'ufficio si trova presso la sede degli uffici amministrativi del Politecnico, in Via Amendola 126, al secondo piano.
+
+
+I. Procedure e Documenti
+Domanda: Dove trovo il documento "check list" con tutte le procedure da seguire?
+Risposta: L'Ufficio Mobilità Internazionale (solitamente la Dott.ssa Sammarco o la sua assistente) invia via email un file chiamato "0-CHECK LIST" a tutti gli studenti selezionati. Questo documento contiene l'elenco di tutte le procedure, i documenti necessari e le scadenze da rispettare prima, durante e dopo la mobilità.
+Domanda: Dove trovo il documento da far firmare a fine Erasmus (Certificato di Permanenza)?
+Risposta: Il documento si chiama "Attestato di Permanenza" o "Certificate of Stay". Puoi trovarlo nella sezione "Modulistica Outgoing" del sito internazionale del Politecnico. Devi stamparlo e farlo firmare dall'ufficio relazioni internazionali della tua università ospitante prima di rientrare in Italia.
+Domanda: Come funziona la procedura di fine Erasmus?
+Risposta: Una volta terminati gli esami, prima di rientrare in Italia, devi:
+Farti firmare il Certificato di Permanenza dall'università ospitante.
+Assicurarti che l'università ospitante invii il Transcript of Records (il certificato con gli esami superati) al Politecnico.
+Completare il test finale OLS e l'EU Survey (un sondaggio finale obbligatorio).
+Una volta rientrato, dovrai inviare tutta la documentazione finale all'Ufficio Mobilità del Politecnico per avviare la procedura di riconoscimento crediti e ricevere il saldo della borsa di studio.
+Domanda: È possibile sostenere esami del Politecnico in via telematica mentre si è in Erasmus?
+Risposta: No, formalmente non è possibile. Come specificato nel bando, durante il periodo di mobilità la tua carriera al Politecnico è "sospesa". L'unico modo per farlo è mettersi d'accordo privatamente con il singolo professore, che potrebbe acconsentire a farti sostenere l'esame per poi verbalizzarlo ufficialmente solo dopo il tuo rientro, ma non è una procedura standard e non tutti i docenti sono disposti a farlo.
+II. Learning Agreement (LA) e Aspetti Didattici
+Domanda: C'è un numero minimo di crediti da inserire nel Learning Agreement?
+Risposta: Non c'è un minimo rigido per l'approvazione del LA. Alcuni coordinatori sono più flessibili (accettando anche solo 12 CFU), mentre altri (come il Prof. Torresi) consigliano un piano di studi più sostanzioso (es. un paio di esami "veri" e un paio di esami a scelta) per garantire un'esperienza formativa completa. Il massimo consigliato è di 30 CFU per semestre.
+Domanda: Posso scegliere un'università indicata per un corso di laurea simile al mio (es. Civile se sono di Ambientale)?
+Risposta: Sì, è possibile. L'importante è che tu riesca a trovare esami compatibili con il tuo piano di studi. L'indicazione nel bando è un suggerimento, ma la scelta finale si basa sulla compatibilità dei corsi, che va verificata sui siti delle università estere e approvata dal tuo coordinatore.
+Domanda: Come funziona la procedura di modifica del Learning Agreement dopo la partenza?
+Risposta: Se dopo essere arrivato ti accorgi che un esame non è più disponibile o vuoi cambiarlo, devi compilare la sezione "During the Mobility" del LA. Anche questa modifica deve essere approvata sia dal coordinatore del Politecnico sia da quello dell'università ospitante.
+III. Corsi di Lingua e OLS (Online Linguistic Support)
+Domanda: Cosa devo fare sulla piattaforma OLS?
+Risposta: La procedura OLS prevede diversi passaggi obbligatori:
+Test Iniziale (Placement Test): Un test di valutazione da fare prima di partire (o subito dopo l'arrivo) per verificare il tuo livello di partenza.
+Corsi (obbligatori): Durante la mobilità, la piattaforma sblocca dei corsi di lingua che sei tenuto a seguire.
+Test Finale: A fine Erasmus, devi sostenere un test finale per valutare i progressi fatti.
+Tutta la procedura è obbligatoria e gestita tramite il portale OLS, a cui accedi con le credenziali che ricevi via email.
+Domanda: Ho fatto il test iniziale OLS, ma non vedo i corsi. Cosa devo fare?
+Risposta: I corsi di lingua sulla piattaforma OLS si sbloccano e diventano disponibili solo dopo l'inizio ufficiale della tua mobilità. Non devi fare nulla, appariranno automaticamente sulla tua dashboard.
+Domanda: Devo inviare il risultato del test OLS a qualcuno?
+Risposta: Non è strettamente obbligatorio, in quanto la procedura è gestita dalla piattaforma europea. Tuttavia, per dimostrare diligenza e tenere informato l'ufficio, è una buona pratica inviare uno screenshot o il certificato del test (che puoi scaricare dalla piattaforma) alla Dott.ssa Sammarco.
+IV. Aspetti Economici e Borse di Studio
+Domanda: Quali borse di studio posso ricevere e come?
+Risposta: Ci sono due borse principali:
+Borsa Erasmus (Politecnico + UE): Assegnata in base alla graduatoria.
+Contributo del MUR: Un'integrazione basata sull'ISEE, erogata a fine mobilità solo se hai conseguito almeno 12 CFU.
+In più, se sei borsista ADISU, hai diritto a un'ulteriore integrazione da richiedere direttamente a loro.
+Domanda: La borsa ADISU e quella Erasmus sono cumulabili?
+Risposta: Sì, gli studenti borsisti ADISU hanno diritto a un'integrazione specifica per la mobilità internazionale, che si aggiunge alla borsa Erasmus.
+V. Bandi Futuri e Scadenze
+Domanda: Quando esce il bando per l'Erasmus per studio?
+Risposta: Il bando principale per l'Erasmus per studio viene pubblicato solitamente tra gennaio e febbraio di ogni anno.
+Domanda: Quando esce il bando per l'Erasmus Traineeship (tirocinio)?
+Risposta: I bandi per il tirocinio vengono pubblicati periodicamente durante l'anno. Per il 2022/23, il bando "G.R.E.A.T." è stato pubblicato il 10 gennaio 2023.
+VI. Contatti e Comunicazioni
+Domanda: Il mio coordinatore (Maione/Pellegrino/Sammarco) non risponde alle email, come posso fare?
+Risposta: È un problema comune a causa dell'alto numero di richieste. Se hai urgenza e le email non funzionano, la soluzione migliore è recarsi di persona al loro ufficio durante gli orari di ricevimento. Se necessario, metti in copia conoscenza altri contatti dell'ufficio (es. Roberta Mascetti) per aumentare la visibilità della tua richiesta.
+Start typing a prompt
+
+I. Procedure di Candidatura e Requisiti
+Domanda: Quando esce il bando per l'Erasmus per studio?
+Risposta: Il bando principale per l'Erasmus per studio viene pubblicato solitamente tra gennaio e febbraio di ogni anno. Per l'anno accademico 2023/24, è stato pubblicato il 1° febbraio 2023.
+Domanda: È uscito il bando per l'Erasmus Traineeship (tirocinio)?
+Risposta: Sì, i bandi per il tirocinio vengono pubblicati periodicamente durante l'anno. Per il 2022/23, il bando "G.R.E.A.T." è stato pubblicato il 10 gennaio 2023.
+Domanda: Le certificazioni linguistiche danno un punteggio aggiuntivo in graduatoria?
+Risposta: No, almeno per gli ultimi bandi le certificazioni linguistiche non danno più punti in graduatoria. Tuttavia, il possesso di una certificazione può essere un requisito di ammissione obbligatorio per alcune università estere.
+Domanda: Cosa significano i cicli di studio "1st", "2nd", "3rd"?
+Risposta:
+1st Cycle: Laurea Triennale
+2nd Cycle: Laurea Magistrale
+3rd Cycle: Dottorato di Ricerca
+Domanda: Posso candidarmi a una sede indicata solo per il "1st cycle" (triennale) se sono uno studente di magistrale?
+Risposta: No. Se sei iscritto a una laurea magistrale ("2nd cycle"), puoi candidarti solo per le destinazioni che includono esplicitamente il "2nd cycle" nel loro accordo.
+Domanda: Se sono di un corso di laurea (es. Ambientale), posso scegliere università indicate per un corso affine (es. Civile)?
+Risposta: Sì, è possibile. L'importante è che tu riesca a trovare esami compatibili con il tuo piano di studi. L'indicazione nel bando è un suggerimento, ma la scelta finale si basa sulla compatibilità dei corsi, che va verificata sui siti delle università estere e approvata dal tuo coordinatore.
+Domanda: Nella domanda, devo inserire anche mobilità lavorative non universitarie?
+Risposta: No, devi inserire solo i periodi di mobilità svolti in ambito accademico (es. precedenti Erasmus).
+Domanda: Cosa devo scrivere nella sezione "Dichiarazioni" della domanda?
+Risposta: Puoi utilizzare quella sezione per dichiarare il possesso di certificazioni linguistiche (es. "In possesso di certificazione B2 di lingua inglese").
+II. Learning Agreement (LA) e Aspetti Didattici
+Domanda: C'è un numero minimo di crediti da inserire nel Learning Agreement?
+Risposta: Non c'è un minimo rigido per l'approvazione del LA. Alcuni coordinatori sono più flessibili (accettando anche solo 12 CFU), mentre altri consigliano un piano di studi più sostanzioso. Il massimo consigliato è di 30 CFU per semestre.
+Domanda: Posso modificare il Learning Agreement dopo la partenza?
+Risposta: Sì, è possibile modificare il piano di studi anche dopo l'arrivo a destinazione, compilando la sezione "During the Mobility" del LA, rispettando le scadenze indicate dall'università ospitante per le modifiche.
+Domanda: Se sono iscritto a una laurea triennale, posso scegliere esami di corsi di laurea magistrale (MSc) all'estero?
+Risposta: Dipende dalle regole dell'università ospitante. Alcune lo permettono, altre no. È una cosa da verificare direttamente con loro.
+Domanda: Cosa succede se un esame che voglio sostituire non è compatibile?
+Risposta: Il tuo coordinatore non approverà la sostituzione. Devi trovare un'alternativa o scegliere un esame a scelta. È fondamentale che il tuo LA sia approvato prima di sostenere gli esami.
+III. Corsi di Lingua e OLS (Online Linguistic Support)
+Domanda: Cosa devo fare sulla piattaforma OLS?
+Risposta: La procedura OLS prevede diversi passaggi obbligatori:
+Test Iniziale (Placement Test): Un test di valutazione da fare prima di partire (o subito dopo l'arrivo).
+Corsi (obbligatori): Durante la mobilità, la piattaforma sblocca dei corsi di lingua che sei tenuto a seguire.
+Test Finale: A fine Erasmus, devi sostenere un test finale per valutare i progressi fatti.
+Tutta la procedura è obbligatoria e gestita tramite il portale OLS.
+Domanda: Ho fatto il test iniziale OLS, ma non vedo i corsi. Cosa devo fare?
+Risposta: I corsi di lingua sulla piattaforma OLS si sbloccano e diventano disponibili solo dopo l'inizio ufficiale della tua mobilità. Non devi fare nulla, appariranno automaticamente sulla tua dashboard.
+Domanda: Devo inviare il risultato del test OLS a qualcuno?
+Risposta: Non è strettamente obbligatorio, ma è una buona pratica inviare uno screenshot o il certificato del test alla Dott.ssa Sammarco per dimostrare di aver completato la procedura.
+IV. Aspetti Economici e Borse di Studio
+Domanda: Quali borse di studio posso ricevere e come?
+Risposta: Ci sono due borse principali:
+Borsa Erasmus (Politecnico + UE): Assegnata in base alla graduatoria.
+Contributo del MUR: Un'integrazione basata sull'ISEE, erogata a fine mobilità solo se hai conseguito almeno 12 CFU.
+In più, se sei borsista ADISU, hai diritto a un'ulteriore integrazione da richiedere direttamente a loro.
+Domanda: La borsa ADISU e quella Erasmus sono cumulabili?
+Risposta: Sì, gli studenti borsisti ADISU hanno diritto a un'integrazione specifica per la mobilità internazionale, che si aggiunge alla borsa Erasmus.
+Domanda: Quando arriva la prima rata della borsa di studio?
+Risposta: Solitamente arriva entro un mese dall'invio dell'Arrival Certificate, ma i tempi possono variare.
+V. Bandi Specifici (Double Degree)
+Domanda: Come funziona il programma Double Degree? È uscito il bando?
+Risposta: Il Double Degree è un programma separato con un bando specifico che esce solitamente verso marzo/aprile. È riservato agli studenti della laurea magistrale e prevede il conseguimento di un doppio titolo di studio.
+Domanda: Che media serve per essere presi al Double Degree?
+Risposta: Oltre ai requisiti minimi indicati nel bando, la selezione è competitiva e dipende dalla media degli altri candidati.
+VI. Procedure Post-Mobilità
+Domanda: Come funziona la procedura di fine Erasmus?
+Risposta: Una volta terminati gli esami, prima di rientrare in Italia, devi farti firmare il Certificato di Permanenza e assicurarti che l'università ospitante invii il Transcript of Records (il certificato con gli esami superati) al Politecnico.
+Domanda: È obbligatorio fare il test finale OLS?
+Risposta: Sì, il test finale OLS è un passaggio obbligatorio per completare la procedura Erasmus.
+VII. Contatti e Supporto
+Domanda: Come posso contattare i coordinatori (Maione, Pellegrino, Sammarco) se non rispondono?
+Risposta: È un problema comune. Se hai urgenza e le email non funzionano, la soluzione migliore è recarsi di persona al loro ufficio durante gli orari di ricevimento. Se necessario, metti in copia conoscenza altri contatti dell'ufficio per aumentare la visibilità della tua richiesta.
+Domanda: Ci sarà una riunione informativa sul bando Erasmus?
+Risposta: Sì, solitamente viene organizzata una presentazione ufficiale del bando (sia in presenza che online) dove è possibile porre domande direttamente ai responsabili.
+
+
+I. Procedure di Candidatura e Requisiti
+Domanda: Quando esce il bando per l'Erasmus per studio?
+Risposta: Il bando principale per l'Erasmus per studio viene pubblicato solitamente tra gennaio e febbraio di ogni anno. Per l'anno accademico 2023/24, è stato pubblicato il 1° febbraio 2023.
+Domanda: È uscito il bando per l'Erasmus Traineeship (tirocinio)?
+Risposta: Sì, i bandi per il tirocinio vengono pubblicati periodicamente durante l'anno. Per il 2022/23, il bando "G.R.E.A.T." è stato pubblicato il 10 gennaio 2023.
+Domanda: Le certificazioni linguistiche danno un punteggio aggiuntivo in graduatoria?
+Risposta: No, almeno per gli ultimi bandi le certificazioni linguistiche non danno più punti in graduatoria. Tuttavia, il possesso di una certificazione può essere un requisito di ammissione obbligatorio per alcune università estere.
+Domanda: Cosa significano i cicli di studio "1st", "2nd", "3rd"?
+Risposta:
+1st Cycle: Laurea Triennale
+2nd Cycle: Laurea Magistrale
+3rd Cycle: Dottorato di Ricerca
+Domanda: Se sono di un corso di laurea (es. Ambientale), posso scegliere università indicate per un corso affine (es. Civile)?
+Risposta: Sì, è possibile. L'importante è che tu riesca a trovare esami compatibili con il tuo piano di studi. L'indicazione nel bando è un suggerimento, ma la scelta finale si basa sulla compatibilità dei corsi, che va verificata sui siti delle università estere e approvata dal tuo coordinatore.
+Domanda: Devo allegare le certificazioni linguistiche alla domanda di partecipazione?
+Risposta: No, le certificazioni linguistiche non vanno allegate in questa fase, perché non contribuiscono al punteggio. Andranno presentate successivamente, durante la fase di "Application" dell'università ospitante, se da essa richieste.
+Domanda: Il modulo di domanda va firmato prima di essere caricato?
+Risposta: No, il modulo di partecipazione non richiede alcuna firma.
+II. Learning Agreement (LA) e Aspetti Didattici
+Domanda: C'è un numero minimo di crediti da sostenere in Erasmus?
+Risposta: Per ricevere il saldo della borsa di studio, il minimo richiesto è 12 CFU per un semestre. Non c'è un numero minimo di esami, ma di crediti.
+Domanda: Come funziona se un esame qui è da 12 CFU e all'estero è diviso in due parti in due semestri diversi?
+Risposta: In questo caso, per convalidare l'intero esame da 12 CFU, dovresti frequentare l'università estera per entrambi i semestri.
+Domanda: È possibile fare tesi e tirocinio durante l'Erasmus per studio?
+Risposta: Sì, è possibile includere attività di tesi e tirocinio nel tuo Learning Agreement, ma con delle condizioni. Ad esempio, per meccanica, è richiesto di sostenere anche un minimo di 12 CFU di esami curriculari. La tesi richiede un relatore al Politecnico e un co-relatore nell'università ospitante.
+III. Corsi di Lingua e OLS (Online Linguistic Support)
+Domanda: Come funziona la procedura OLS?
+Risposta: La procedura OLS prevede diversi passaggi obbligatori:
+Test Iniziale (Placement Test): Un test di valutazione da fare prima di partire (o subito dopo l'arrivo).
+Corsi (obbligatori): Durante la mobilità, la piattaforma sblocca dei corsi di lingua che sei tenuto a seguire.
+Test Finale: A fine Erasmus, devi sostenere un test finale per valutare i progressi fatti.
+Tutta la procedura è obbligatoria e gestita tramite il portale OLS.
+Domanda: Ho fatto il test iniziale OLS, ma non vedo i corsi. Cosa devo fare?
+Risposta: I corsi di lingua sulla piattaforma OLS si sbloccano e diventano disponibili solo dopo l'inizio ufficiale della tua mobilità. Non devi fare nulla, appariranno automaticamente sulla tua dashboard.
+IV. Aspetti Economici e Borse di Studio
+Domanda: Quali borse di studio posso ricevere e come?
+Risposta: Ci sono due borse principali:
+Borsa Erasmus (Politecnico + UE): Assegnata in base alla graduatoria.
+Contributo del MUR: Un'integrazione basata sull'ISEE, erogata a fine mobilità solo se hai conseguito almeno 12 CFU.
+In più, se sei borsista ADISU, hai diritto a un'ulteriore integrazione da richiedere direttamente a loro.
+Domanda: Quando arriva la prima rata della borsa di studio?
+Risposta: Solitamente arriva entro 2-4 settimane dall'invio dell'Arrival Certificate, ma i tempi possono variare.
+Domanda: Se prolungo la permanenza, riceverò documentazione aggiuntiva per la borsa?
+Risposta: Sì. Se il tuo prolungamento viene approvato, l'ufficio ti invierà un contratto aggiornato con le nuove date e, se disponibili, i fondi aggiuntivi.
+V. Bandi Specifici (Double Degree, Traineeship)
+Domanda: Come funziona il programma Double Degree? È uscito il bando?
+Risposta: Il Double Degree è un programma separato con un bando specifico che esce solitamente verso marzo/aprile. È riservato agli studenti della laurea magistrale e prevede il conseguimento di un doppio titolo di studio.
+Domanda: È possibile fare sia l'Erasmus per studio che il Double Degree?
+Risposta: Generalmente no, in quanto entrambi sono programmi di mobilità lunghi che si sovrapporrebbero. Devi scegliere uno dei due percorsi.
+Domanda: È possibile che due persone facciano il tirocinio (Traineeship) nella stessa azienda e nello stesso periodo?
+Risposta: Sì, è possibile, a condizione che l'azienda ospitante dia la sua disponibilità ad accogliere entrambi i tirocinanti.
+VI. Procedure Post-Mobilità
+Domanda: Come funziona la procedura di fine Erasmus?
+Risposta: Una volta terminati gli esami, prima di rientrare in Italia, devi farti firmare il Certificato di Permanenza e assicurarti che l'università ospitante invii il Transcript of Records (il certificato con gli esami superati) al Politecnico.
+VII. Consigli Pratici
+Domanda: Come trovo informazioni sulle materie e i requisiti delle università estere?
+Risposta: L'unica fonte affidabile è il sito ufficiale dell'università ospitante. Devi cercare la sezione dedicata agli studenti di scambio (Incoming/Exchange Students), dove troverai il "Course Catalogue", le scadenze per l'application e i requisiti linguistici.
+Domanda: Eduroam funziona all'estero?
+Risposta: Sì, la rete Eduroam è un servizio internazionale. Se hai configurato correttamente le tue credenziali al Politecnico, potrai accedere alla rete Eduroam in tutte le università partner che aderiscono al servizio.
+
+
+I. Procedure di Candidatura e Requisiti
+Domanda: Quando esce il bando per l'Erasmus per studio?
+Risposta: Il bando principale per l'Erasmus per studio viene pubblicato solitamente tra gennaio e febbraio di ogni anno. Per l'anno accademico 2023/24, è stato pubblicato il 1° febbraio 2023.
+Domanda: È uscito il bando per l'Erasmus Traineeship (tirocinio)?
+Risposta: Sì, i bandi per il tirocinio vengono pubblicati periodicamente durante l'anno. Per il 2022/23, il bando "G.R.E.A.T." è stato pubblicato il 10 gennaio 2023.
+Domanda: Le certificazioni linguistiche danno un punteggio aggiuntivo in graduatoria?
+Risposta: No, almeno per gli ultimi bandi le certificazioni linguistiche non danno più punti in graduatoria. Tuttavia, il possesso di una certificazione può essere un requisito di ammissione obbligatorio per alcune università estere.
+Domanda: È necessario possedere già la certificazione linguistica al momento della domanda?
+Risposta: Non è necessario per il Politecnico, in quanto non è un requisito del bando. Tuttavia, è una responsabilità dello studente ottenerla in tempo per rispettare le scadenze di "Application" dell'università ospitante, che potrebbero richiederla per completare l'iscrizione.
+Domanda: Il modulo di domanda va firmato prima di essere caricato?
+Risposta: No, il modulo di partecipazione non richiede alcuna firma.
+II. Learning Agreement (LA) e Aspetti Didattici
+Domanda: C'è un numero minimo di crediti da sostenere in Erasmus?
+Risposta: Per ricevere il saldo della borsa di studio, il minimo richiesto è 12 CFU per un semestre.
+Domanda: Come funziona se un esame qui è da 12 CFU e all'estero è diviso in due parti in due semestri diversi?
+Risposta: In questo caso, per convalidare l'intero esame da 12 CFU, dovresti frequentare l'università estera per entrambi i semestri.
+Domanda: È possibile fare tesi e tirocinio durante l'Erasmus per studio?
+Risposta: Sì, è possibile includere attività di tesi e tirocinio nel tuo Learning Agreement, ma con delle condizioni. Ad esempio, per meccanica, è richiesto di sostenere anche un minimo di 12 CFU di esami curriculari.
+Domanda: Come si modifica il Learning Agreement durante la mobilità?
+Risposta: Per modificare il piano di studi durante la mobilità, si utilizza un apposito modulo chiamato "Learning Agreement - During the Mobility". Questo modulo va compilato e fatto approvare solo se ci sono cambiamenti necessari.
+III. Corsi di Lingua e OLS (Online Linguistic Support)
+Domanda: Come funziona la procedura OLS?
+Risposta: La procedura OLS prevede diversi passaggi obbligatori:
+Test Iniziale (Placement Test): Un test di valutazione da fare prima di partire (o subito dopo l'arrivo).
+Corsi (obbligatori): Durante la mobilità, la piattaforma sblocca dei corsi di lingua che sei tenuto a seguire.
+Test Finale: A fine Erasmus, devi sostenere un test finale per valutare i progressi fatti.
+Tutta la procedura è obbligatoria e gestita tramite il portale OLS.
+IV. Aspetti Economici e Borse di Studio
+Domanda: Quali borse di studio posso ricevere e come?
+Risposta: Ci sono due borse principali:
+Borsa Erasmus (Politecnico + UE): Assegnata in base alla graduatoria.
+Contributo del MUR: Un'integrazione basata sull'ISEE, erogata a fine mobilità solo se hai conseguito almeno 12 CFU.
+In più, se sei borsista ADISU, hai diritto a un'ulteriore integrazione da richiedere direttamente a loro.
+Domanda: Quando arriva la prima rata della borsa di studio?
+Risposta: Solitamente arriva entro 2-4 settimane dall'invio dell'Arrival Certificate, ma i tempi possono variare.
+Domanda: Quando arriva il saldo della borsa di studio per chi ha fatto un anno intero?
+Risposta: Il saldo della borsa del Politecnico/UE per chi ha fatto un anno intero viene erogato dopo la fine del secondo semestre.
+V. Bandi Specifici (Double Degree, Traineeship)
+Domanda: Come funziona il programma Double Degree? È uscito il bando?
+Risposta: Il Double Degree è un programma separato con un bando specifico che esce solitamente verso marzo/aprile. È riservato agli studenti della laurea magistrale.
+Domanda: Qual è la differenza tra il bando Traineeship "normale" e quello "G.R.E.A.T."?
+Risposta: Entrambi sono per tirocini. Il "G.R.E.A.T." è un bando gestito da un consorzio di università, il che potrebbe offrire una rete più ampia di aziende partner. Le condizioni e i requisiti specifici sono dettagliati nei rispettivi bandi.
+VI. Procedure Post-Mobilità e Durante la Mobilità
+Domanda: Come funziona la procedura di fine Erasmus?
+Risposta: Una volta terminati gli esami, prima di rientrare in Italia, devi farti firmare il Certificato di Permanenza e assicurarti che l'università ospitante invii il Transcript of Records (il certificato con gli esami superati) al Politecnico.
+Domanda: Se accetto la mobilità e poi rinuncio, ci sono penalità?
+Risposta: Sì. Se rinunci dopo aver formalmente accettato, la "penale" consiste nell'esclusione dalla partecipazione al bando Erasmus+ per l'anno accademico successivo.
+VII. Consigli Pratici e Logistici
+Domanda: Come trovo informazioni sulle materie e i requisiti delle università estere?
+Risposta: L'unica fonte affidabile è il sito ufficiale dell'università ospitante. Devi cercare la sezione dedicata agli studenti di scambio (Incoming/Exchange Students), dove troverai il "Course Catalogue", le scadenze per l'application e i requisiti linguistici.
+Domanda: Eduroam funziona all'estero?
+Risposta: Sì, la rete Eduroam è un servizio internazionale. Se hai configurato correttamente le tue credenziali al Politecnico, potrai accedere alla rete Eduroam in tutte le università partner che aderiscono al servizio.
+Domanda: Esiste un ID studente del Politecnico di Bari?
+Risposta: No, il Politecnico di Bari non utilizza un "ID studente" numerico standard. Il tuo identificativo principale è il numero di matricola.
+VIII. Graduatorie e Assegnazione Sedi
+Domanda: Quando escono le graduatorie?
+Risposta: Non c'è una data fissa. Basandosi sull'esperienza degli anni precedenti, le graduatorie provvisorie escono solitamente verso metà aprile.
+Domanda: È possibile scambiare la meta con un altro studente?
+Risposta: È una domanda delicata. Formalmente non è una procedura prevista. La cosa migliore è chiedere direttamente al proprio coordinatore o alla Dott.ssa Sammarco, ma è molto improbabile che venga concesso.
+Domanda: Nel modulo di domanda, quante preferenze posso inserire?
+Risposta: Il bando specifica il numero massimo di preferenze (es. fino a 10). Se il modulo cartaceo ha meno righe, puoi semplicemente aggiungerle modificando il file.
+
+
+
+I. Procedure Durante e Post-Mobilità
+Domanda: Come funziona la procedura di fine Erasmus?
+Risposta: Una volta terminati gli esami, prima di rientrare in Italia, devi:
+Farti firmare il Certificato di Permanenza dall'università ospitante.
+Assicurarti che l'università ospitante invii il Transcript of Records (il certificato con gli esami superati) al Politecnico.
+Completare il test finale OLS e l'EU Survey (un sondaggio finale obbligatorio).
+Una volta rientrato, dovrai inviare tutta la documentazione finale all'Ufficio Mobilità del Politecnico per avviare la procedura di riconoscimento crediti e ricevere il saldo della borsa di studio.
+Domanda: Quando vengono verbalizzati gli esami sul libretto dopo il rientro?
+Risposta: I tempi possono essere lunghi. Dopo il tuo rientro, i voti devono prima essere convertiti e approvati dalla Giunta di Dipartimento e solo successivamente la segreteria li registrerà sul tuo libretto. L'intero processo può richiedere diversi mesi.
+Domanda: Il "Learning Agreement - During the Mobility" firmato va inviato alla Dott.ssa Sammarco?
+Risposta: Sì, qualsiasi modifica ufficiale al tuo piano di studi, approvata da entrambi i coordinatori, deve essere inviata all'Ufficio Mobilità Internazionale per essere registrata.
+Domanda: Cos'è l'EU Survey e quando si compila?
+Risposta: L'EU Survey è un questionario di feedback obbligatorio inviato dalla Commissione Europea. Riceverai un link via email verso la fine del tuo periodo di mobilità e la sua compilazione è necessaria per completare la procedura Erasmus e ricevere il saldo della borsa.
+II. Learning Agreement (LA) e Aspetti Didattici
+Domanda: C'è una scadenza per modificare il Learning Agreement durante la mobilità?
+Risposta: Il Politecnico è generalmente flessibile e permette modifiche anche verso la fine del semestre. Tuttavia, devi rispettare le scadenze interne dell'università ospitante, che potrebbero essere più rigide.
+Domanda: Posso cambiare l'ordine di preferenza delle mete dopo la pubblicazione delle graduatorie?
+Risposta: No, una volta pubblicate le graduatorie, puoi solo accettare o rifiutare la meta che ti è stata assegnata. Non è possibile cambiare l'ordine delle preferenze.
+III. Corsi di Lingua e OLS (Online Linguistic Support)
+Domanda: Come funziona la piattaforma OLS dopo il test iniziale?
+Risposta: Dopo aver completato il test di valutazione iniziale, la piattaforma dovrebbe sbloccare l'accesso a dei corsi di lingua online. Questi corsi sono considerati obbligatori e vanno seguiti durante il periodo di mobilità. Se non ti appaiono, potrebbe esserci un problema tecnico da segnalare.
+Domanda: Devo fare il test finale OLS se il mio livello è già alto?
+Risposta: Sì, il test finale OLS è una procedura obbligatoria per tutti, indipendentemente dal livello di partenza, per completare il programma e ricevere il saldo della borsa.
+IV. Aspetti Economici e Borse di Studio
+Domanda: Quando viene erogato il saldo del 20% della borsa di studio Erasmus?
+Risposta: Il saldo viene erogato dopo la fine della mobilità, una volta che hai completato tutte le procedure richieste: invio dell'attestato di permanenza, completamento del test finale OLS e dell'EU Survey, e dopo che l'università ospitante ha inviato il tuo Transcript of Records.
+Domanda: Come funziona la richiesta della borsa ADISU in due rate?
+Risposta: L'ADISU pubblica un'istanza online specifica per richiedere l'erogazione della borsa per la mobilità internazionale in due rate. Devi compilare questa richiesta sul portale ADISU.
+Domanda: Ho ricevuto una richiesta di restituzione di una parte della borsa. Perché?
+Risposta: La borsa di studio Erasmus viene calcolata sui giorni esatti di permanenza certificati dai documenti di arrivo and fine mobilità. Se sei rientrato prima della data prevista sul contratto, l'ufficio ricalcola l'importo e ti chiede di restituire la somma ricevuta in eccesso.
+Domanda: Posso richiedere la borsa di studio per merito del Politecnico mentre sono in Erasmus?
+Risposta: No. Poiché durante il periodo di mobilità la tua carriera al Politecnico è formalmente "sospesa", non puoi partecipare ai bandi per borse di studio basate sul merito acquisito in quell'anno accademico in Italia.
+V. Bandi Futuri e Scadenze
+Domanda: Quando escono le graduatorie del bando Erasmus per studio?
+Risposta: Non c'è una data fissa, ma basandosi sull'esperienza degli anni precedenti, le graduatorie escono solitamente verso fine aprile.
+Domanda: Esiste un bando per fare solo la tesi all'estero?
+Risposta: Sì, esiste un bando specifico chiamato "Bando per tesi all'estero" (a volte chiamato anche "Global Thesis") che ha procedure e scadenze separate dall'Erasmus per studio.
+Domanda: Quando escono i bandi per il Double Degree?
+Risposta: I bandi per il Double Degree vengono pubblicati solitamente in primavera, ma è necessario monitorare il sito del proprio dipartimento per le date esatte.
+VI. Documentazione
+Domanda: Dove trovo il modulo dei dati bancari?
+Risposta: È un modulo che viene inviato via email dall'Ufficio Mobilità Internazionale dopo l'accettazione della sede. Se lo hai perso, puoi chiederlo direttamente a loro.
+Domanda: Nel modulo riconoscimento crediti, quale "anno accademico ordinamento (coorte)" devo inserire?
+Risposta: Devi inserire l'anno accademico di ordinamento dei tuoi esami al Politecnico, non quello dell'Erasmus.
+VII. Contatti
+Domanda: A chi posso chiedere informazioni sui corsi di lingua del Politecnico?
+Risposta: Devi rivolgerti al Centro Linguistico di Ateneo (CLA), che gestisce l'organizzazione e l'iscrizione ai corsi.
+
+
+I. Learning Agreement (LA) e Procedure Didattiche
+Domanda: Cosa devo fare dopo aver ricevuto la sede, specialmente se sono stato assegnato dopo lo scorrimento?
+Risposta: Una volta che ti è stata assegnata una sede definitiva, devi immediatamente avviare la procedura di "Application" sul sito dell'università ospitante e iniziare a preparare il tuo Learning Agreement (LA).
+Domanda: Come si compila il Learning Agreement?
+Risposta: Devi cercare sul sito dell'università ospitante i corsi che intendi seguire ("Course Catalogue"), verificare la compatibilità dei programmi con gli esami del Politecnico che vuoi sostituire, e compilare il modulo del LA. Una volta compilato, devi inviarlo al tuo Coordinatore Erasmus di Dipartimento (es. Torresi, Pellegrino, Maione) per la discussione e l'approvazione.
+Domanda: Per verificare la compatibilità di un esame, devo chiedere prima al professore della materia al Politecnico?
+Risposta: Non è obbligatorio. Il responsabile ultimo della valutazione e approvazione del LA è il tuo Coordinatore Erasmus. È lui che decide se la corrispondenza è valida. Se hai dubbi specifici, puoi comunque chiedere un parere informale al docente della materia.
+Domanda: Il mio coordinatore deve firmare il LA solo dopo l'approvazione della Giunta di Dipartimento?
+Risposta: Sì, la firma del coordinatore sul LA è legata all'approvazione formale del piano di studi da parte della Giunta di Dipartimento. Questo significa che il processo può richiedere tempo, specialmente se la Giunta si riunisce solo in date specifiche.
+Domanda: Posso inserire nel LA esami di semestri futuri?
+Risposta: Sì, è assolutamente possibile. Ad esempio, se parti al primo semestre, puoi sostenere all'estero esami che nel tuo piano di studi italiano sarebbero collocati nel secondo semestre, e viceversa.
+Domanda: La convalida degli esami come funziona?
+Risposta: Al tuo rientro, presenterai il Transcript of Records (certificato degli esami esteri). Il tuo coordinatore preparerà la pratica di riconoscimento che verrà approvata dalla Giunta di Dipartimento. Successivamente, la segreteria registrerà gli esami sul tuo libretto.
+II. Aspetti Economici e Borse di Studio
+Domanda: Come e quando vengono pagate le borse di studio?
+Risposta:
+Borsa UE (Erasmus+): Viene erogata in due rate. L'80% arriva circa un mese dopo l'inizio della mobilità e dopo aver inviato il certificato di arrivo. Il restante 20% viene erogato al rientro, dopo il calcolo dei giorni effettivi di permanenza.
+Contributo Integrativo del Politecnico/MIUR: È un'integrazione basata sull'ISEE, che viene erogata tutta insieme al rientro, solo dopo aver certificato di aver conseguito almeno 12 CFU. I tempi di erogazione possono essere lunghi (anche molti mesi dopo il rientro).
+Integrazione ADISU: Va richiesta separatamente tramite il portale ADISU e segue le loro tempistiche.
+Domanda: Bisogna fare una domanda specifica per ottenere queste borse?
+Risposta: No, la partecipazione al bando Erasmus vale automaticamente come richiesta per la borsa UE e per il contributo MIUR. Solo per l'integrazione ADISU va fatta una richiesta separata.
+III. Bando Erasmus Traineeship (Tirocinio)
+Domanda: Come funziona il bando per il tirocinio (Traineeship)? Devo trovare io l'azienda?
+Risposta: Sì, per l'Erasmus Traineeship la procedura è in gran parte a carico dello studente. Devi cercare e contattare autonomamente l'azienda o l'ente ospitante. Avere già una lettera di accettazione dall'azienda al momento della domanda aumenta le possibilità di essere selezionati.
+Domanda: Il tirocinio Erasmus può essere fatto anche dopo la laurea?
+Risposta: Sì, il bando prevede la possibilità di svolgere il tirocinio da neolaureati, a condizione che si faccia domanda quando si è ancora studenti e che la mobilità si concluda entro 12 mesi dal conseguimento del titolo.
+Domanda: Il tirocinio Erasmus è quello curriculare previsto dal piano di studi?
+Risposta: Può esserlo. Puoi utilizzare l'Erasmus Traineeship per svolgere all'estero il tirocinio curriculare previsto dal tuo piano di studi.
+IV. Procedure Post-Graduatoria e Scorrimenti
+Domanda: Verrà pubblicata una graduatoria definitiva con gli scorrimenti?
+Risposta: No, solitamente non viene pubblicata una nuova graduatoria. L'Ufficio Mobilità (Dott.ssa Sammarco) o i coordinatori contatteranno direttamente gli studenti idonei non assegnatari via email per comunicare gli eventuali posti liberatisi a seguito delle rinunce, seguendo l'ordine di graduatoria.
+Domanda: Sono stato assegnato a una sede. Quando mi contatterà l'università estera?
+Risposta: L'università estera ti contatterà via email dopo che il Politecnico avrà inviato loro la tua "nomina" ufficiale. Questo processo può richiedere da qualche giorno a qualche settimana.
+Domunta: Chi parte al secondo semestre deve già fare qualcosa?
+Risposta: No, chi parte al secondo semestre deve solo inviare il modulo di accettazione entro la scadenza. Tutte le altre procedure (application, LA, etc.) andranno fatte più avanti, a ridosso delle scadenze previste per il secondo semestre.
+V. Dubbi su Esami e Regole Didattiche
+Domanda: Il Prof. Ruta convalida l'esame di Sistemi Operativi fatto in Erasmus?
+Risposta: Questa è una domanda molto specifica. L'approvazione finale spetta sempre al coordinatore Erasmus, che valuta la compatibilità dei programmi. È consigliabile preparare una proposta di LA ben motivata.
+Domanda: Come funziona la conversione dei voti?
+Risposta: Esiste una tabella di conversione generica, ma la decisione finale spetta alla Giunta di Dipartimento. La conversione non è sempre una semplice trasposizione matematica, ma può tenere conto anche di criteri statistici.
+VI. Gruppi e Comunità
+Domanda: Esistono gruppi WhatsApp/Telegram per le varie destinazioni?
+Risposta: Sì, è molto comune che gli studenti creino gruppi per ogni città (es. Madrid, Braganza, Malaga, Siviglia, etc.) per organizzarsi e scambiarsi informazioni su alloggi, voli e consigli pratici.
+
+Learning Agreement (LA) e Procedure Didattiche
+Domanda: Cosa devo fare dopo aver ricevuto la sede, specialmente se sono stato assegnato dopo lo scorrimento?
+Risposta: Una volta che ti è stata assegnata una sede definitiva, devi immediatamente avviare la procedura di "Application" sul sito dell'università ospitante e iniziare a preparare il tuo Learning Agreement (LA).
+Domanda: Come si compila il Learning Agreement?
+Risposta: Devi cercare sul sito dell'università ospitante i corsi che intendi seguire ("Course Catalogue"), verificare la compatibilità dei programmi con gli esami del Politecnico che vuoi sostituire, e compilare il modulo del LA. Una volta compilato, devi inviarlo al tuo Coordinatore Erasmus di Dipartimento per la discussione e l'approvazione.
+Domanda: Il mio coordinatore deve firmare il LA solo dopo l'approvazione della Giunta di Dipartimento?
+Risposta: Sì, la firma del coordinatore sul LA è legata all'approvazione formale del piano di studi da parte della Giunta di Dipartimento. Questo significa che il processo può richiedere tempo.
+Domanda: Posso inserire nel LA esami di semestri futuri o di anni precedenti?
+Risposta: Sì, è assolutamente possibile. Puoi sostenere all'estero esami che nel tuo piano di studi italiano sarebbero collocati in semestri futuri o che hai lasciato indietro da anni precedenti.
+Domanda: Posso sostituire solo un modulo di un esame da 12 CFU?
+Risposta: Sì, è possibile sostituire solo uno dei due moduli di un esame e sostenere l'altro al Politecnico.
+II. Aspetti Economici e Borse di Studio
+Domanda: Come e quando vengono pagate le borse di studio?
+Risposta:
+Borsa UE (Erasmus+): Viene erogata in due rate. L'80% arriva circa un mese dopo l'inizio della mobilità e dopo aver inviato il certificato di arrivo. Il restante 20% viene erogato al rientro.
+Contributo Integrativo del Politecnico/MIUR: Viene erogato tutta insieme al rientro, solo dopo aver certificato di aver conseguito almeno 12 CFU. I tempi di erogazione possono essere lunghi (anche molti mesi dopo il rientro).
+Integrazione ADISU: Va richiesta separatamente tramite il portale ADISU e segue le loro tempistiche.
+Domanda: Bisogna fare una domanda specifica per ottenere queste borse?
+Risposta: No, la partecipazione al bando Erasmus vale automaticamente come richiesta per la borsa UE e per il contributo MIUR. Solo per l'integrazione ADISU va fatta una richiesta separata.
+III. Bando Erasmus Traineeship (Tirocinio)
+Domanda: Come funziona il bando per il tirocinio (Traineeship)? Devo trovare io l'azienda?
+Risposta: Sì, per l'Erasmus Traineeship la procedura è in gran parte a carico dello studente. Devi cercare e contattare autonomamente l'azienda o l'ente ospitante.
+Domanda: Il tirocinio Erasmus può essere fatto anche dopo la laurea?
+Risposta: Sì, il bando prevede la possibilità di svolgere il tirocinio da neolaureati, a condizione che si faccia domanda quando si è ancora studenti.
+IV. Procedure Post-Graduatoria e Scorrimenti
+Domanda: Verrà pubblicata una graduatoria definitiva con gli scorrimenti?
+Risposta: No, solitamente non viene pubblicata una nuova graduatoria. L'Ufficio Mobilità (Dott.ssa Sammarco) o i coordinatori contatteranno direttamente gli studenti idonei non assegnatari via email per comunicare gli eventuali posti liberatisi.
+Domanda: Sono stato assegnato a una sede. Quando mi contatterà l'università estera?
+Risposta: L'università estera ti contatterà via email dopo che il Politecnico avrà inviato loro la tua "nomina" ufficiale. Questo processo può richiedere da qualche giorno a qualche settimana. Per chi parte al secondo semestre, la comunicazione arriverà molto più tardi, anche in autunno.
+Domanda: Se su Esse3, accanto alla mia sede, compare la scritta "Rinunciato", cosa significa?
+Risposta: Potrebbe trattarsi di un errore del sistema. La cosa migliore da fare è contattare immediatamente l'Ufficio Mobilità Internazionale (Dott.ssa Sammarco) per chiedere chiarimenti.
+V. Dubbi su Esami e Regole Didattiche
+Domanda: Come funziona la convalida degli esami?
+Risposta: Al tuo rientro, presenterai il Transcript of Records. Il tuo coordinatore preparerà la pratica di riconoscimento che verrà approvata dalla Giunta di Dipartimento. Successivamente, la segreteria registrerà gli esami sul tuo libretto.
+Domanda: Quanti CFU minimo devo verbalizzare per ottenere la borsa di studio?
+Risposta: Devi verbalizzare almeno 12 CFU a semestre per non avere problemi con la borsa di studio.
+Domanda: Posso scegliere esami da più corsi di ingegneria diversi (es. Meccanica, Aerospaziale, Elettrica)?
+Risposta: Sì, puoi prendere esami da diversi corsi di laurea, a patto che l'università ospitante lo consenta e che gli esami scelti siano tutti erogati nello stesso semestre in cui ti trovi lì.
+VI. Requisiti Linguistici
+Domanda: Serve per forza una certificazione B1/B2 (es. Cambridge)?
+Risposta: Dipende dall'università estera. Non serve ovunque. È una responsabilità dello studente verificare i requisiti linguistici sul sito dell'università ospitante. Alcune non richiedono certificazioni, altre sì.
+Domanda: Se l'università richiede una certificazione e non ce l'ho, cosa faccio?
+Risposta: Devi contattare l'università ospitante, spiegare la situazione e chiedere se accettano attestati alternativi (come quello del Politecnico) o se puoi inviare la certificazione in un secondo momento.
+VII. Consigli Pratici e Logistici
+Domanda: Esiste un gruppo per chi va a [specifica città]?
+Risposta: È molto comune che gli studenti creino gruppi WhatsApp o Telegram per ogni destinazione. Ti consigliamo di chiedere in questo gruppo per trovare il link o per crearne uno nuovo.
+Domanda: Dove posso trovare Learning Agreement di studenti degli anni passati?
+Risposta: Un buon modo per farsi un'idea è consultare i verbali delle sedute della Giunta di Dipartimento (disponibili sul sito del Dipartimento, es. DMMM). Nei verbali sono elencati gli esami convalidati agli studenti Erasmus, specificando la meta.
+Domanda: Devo stipulare un'assicurazione privata?
+Risposta: La Tessera Sanitaria italiana (TEAM) garantisce l'assistenza sanitaria di base nei paesi UE e il Politecnico offre una copertura base. Tuttavia, è fortemente consigliato stipulare un'assicurazione sanitaria privata integrativa per una copertura più completa.
+VIII. Contatti e Supporto
+Domanda: A chi posso chiedere informazioni se il mio coordinatore non risponde?
+Risposta: Se il tuo coordinatore (es. Torresi, Pellegrino) non risponde, l'unica soluzione è insistere o recarsi di persona nel suo ufficio durante gli orari di ricevimento. Per problemi amministrativi, puoi sempre contattare l'Ufficio Mobilità Internazionale (Dott.ssa Sammarco).
+Start typing a prompt
+
+Learning Agreement (LA) e Procedure Didattiche
+Domanda: Cosa devo fare dopo aver ricevuto la sede, specialmente se sono stato assegnato dopo lo scorrimento?
+Risposta: Una volta che ti è stata assegnata una sede definitiva, devi immediatamente avviare la procedura di "Application" sul sito dell'università ospitante e iniziare a preparare il tuo Learning Agreement (LA).
+Domanda: Come si compila il Learning Agreement?
+Risposta: Devi cercare sul sito dell'università ospitante i corsi che intendi seguire ("Course Catalogue"), verificare la compatibilità dei programmi con gli esami del Politecnico che vuoi sostituire, e compilare il modulo del LA. Una volta compilato, devi inviarlo al tuo Coordinatore Erasmus di Dipartimento per la discussione e l'approvazione.
+Domanda: Per approvare il LA, devo contattare ogni singolo professore o solo il coordinatore?
+Risposta: Dipende dal coordinatore. Alcuni (come la Prof.ssa Pellegrino, secondo alcune esperienze) sono molto autonomi e valutano direttamente la compatibilità dei programmi. Altri (come il Prof. Torresi, secondo alcune esperienze) potrebbero richiederti di ottenere prima un parere informale dai docenti delle singole materie. La regola generale è interfacciarsi esclusivamente con il proprio Coordinatore Erasmus e seguire le sue indicazioni.
+Domanda: Posso inserire nel LA esami di semestri futuri o di anni precedenti?
+Risposta: Sì, è assolutamente possibile. Puoi sostenere all'estero esami che nel tuo piano di studi italiano sarebbero collocati in semestri futuri o che hai lasciato indietro da anni precedenti.
+Domanda: Posso sostituire solo un modulo di un esame da 12 CFU?
+Risposta: Sì, è possibile sostituire solo uno dei due moduli di un esame e sostenere l'altro al Politecnico.
+II. Aspetti Economici e Borse di Studio
+Domanda: Come e quando vengono pagate le borse di studio?
+Risposta:
+Borsa UE (Erasmus+): Viene erogata in due rate. L'80% arriva circa un mese dopo l'inizio della mobilità e dopo aver inviato il certificato di arrivo. Il restante 20% viene erogato al rientro, dopo il calcolo dei giorni effettivi di permanenza.
+Contributo Integrativo del Politecnico/MIUR: È un'integrazione basata sull'ISEE, che viene erogata tutta insieme al rientro, solo dopo aver certificato di aver conseguito almeno 12 CFU. I tempi di erogazione possono essere lunghi (anche molti mesi dopo il rientro).
+Integrazione ADISU: Va richiesta separatamente tramite il portale ADISU e segue le loro tempistiche.
+Domanda: Bisogna fare una domanda specifica per ottenere queste borse?
+Risposta: No, la partecipazione al bando Erasmus vale automaticamente come richiesta per la borsa UE e per il contributo MIUR. Solo per l'integrazione ADISU va fatta una richiesta separata, e bisogna essere già borsisti ADISU per l'anno accademico di riferimento.
+III. Bando Erasmus Traineeship (Tirocinio)
+Domanda: Come funziona il bando per il tirocinio (Traineeship)? Devo trovare io l'azienda?
+Risposta: Sì, per l'Erasmus Traineeship la procedura è in gran parte a carico dello studente. Devi cercare e contattare autonomamente l'azienda o l'ente ospitante.
+Domanda: Il tirocinio Erasmus può essere fatto anche dopo la laurea?
+Risposta: Sì, il bando prevede la possibilità di svolgere il tirocinio da neolaureati, a condizione che si faccia domanda quando si è ancora studenti e che la mobilità si concluda entro 12 mesi dal conseguimento del titolo.
+IV. Procedure Post-Graduatoria e Scorrimenti
+Domanda: Verrà pubblicata una graduatoria definitiva con gli scorrimenti?

@@ -1,0 +1,46 @@
+CHATBOT ERASMUS - INFORMAZIONI DI PROVA
+
+Questo è un file di test per verificare il funzionamento del sistema RAG.
+
+PROGRAMMA ERASMUS - INFORMAZIONI ESSENZIALI
+
+Il Programma Erasmus+ è un'iniziativa dell'Unione Europea che offre opportunità di studio e formazione all'estero per studenti universitari.
+
+DURATA DEL SOGGIORNO:
+- Minimo: 3 mesi
+- Massimo: 12 mesi per ciclo di studi
+
+REQUISITI PRINCIPALI:
+- Essere iscritti al Politecnico di Bari
+- Aver completato almeno il primo anno di studi
+- Conoscenza della lingua del paese ospitante (livello B2)
+
+DESTINAZIONI POPOLARI:
+- Germania: Università Tecniche di Monaco e Berlino
+- Francia: École Centrale di Parigi e Lione
+- Spagna: Università Politecnica di Madrid
+- Paesi Bassi: TU Delft
+
+FINANZIAMENTI:
+- Borsa Erasmus+: 300-450 euro al mese
+- Borse aggiuntive del Politecnico di Bari
+- Possibili contributi regionali
+
+CONTATTI UTILI:
+- Email: erasmus@poliba.it
+- Telefono: 080 596 3213
+- Orari ufficio: Lunedì-Venerdì 9:00-12:00
+
+DOCUMENTI NECESSARI:
+- Learning Agreement
+- Transcript of Records
+- Certificazione linguistica
+- Lettera motivazionale
+
+SCADENZE IMPORTANTI:
+- Bando: Gennaio-Febbraio
+- Candidature: Marzo
+- Selezioni: Aprile-Maggio
+- Partenze: Settembre o Febbraio
+
+Questo file contiene informazioni di base per testare il chatbot e verificare che riesca a recuperare e utilizzare correttamente il contesto dai documenti caricati.
