@@ -1,2 +1,17 @@
-# Backend requirements
--r backend/requirements.txt
+fastapi
+uvicorn
+pydantic
+python-multipart
+google-generativeai
+sentence-transformers
+faiss-cpu
+python-dotenv
+markdown
+pypdf
+tiktoken
+requests
+aiofiles
+openai
+anthropic
+torch
+transformers
