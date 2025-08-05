@@ -1,0 +1,100 @@
+
+Categoria: Aspetti Finanziari (Borse di Studio)
+D: Le borse di studio Erasmus e ADISU sono cumulabili?
+R: Sì, la borsa di studio ADISU per la mobilità internazionale e la borsa Erasmus sono due cose separate e cumulabili.
+D: Quando viene erogata la borsa di studio ADISU per l'Erasmus?
+R: La borsa ADISU viene erogata dopo il rientro dalla mobilità, una volta convalidati gli esami.
+D: A quanto ammonta la borsa di studio Erasmus?
+R: L'importo della borsa di studio Erasmus dipende dal paese di destinazione (in base al costo della vita). I valori esatti sono specificati ogni anno nel bando ufficiale tuttavia non si possono superare all'incirca i 6000 euro.
+D: Come viene erogata la borsa di studio del Politecnico?
+R: Generalmente, l'80% dell'importo viene erogato poco dopo l'arrivo nella sede estera (previa consegna del certificato di arrivo), mentre il restante 20% viene saldato al rientro, dopo la conclusione della mobilità.
+D: Esiste un'integrazione alla borsa di studio da parte del MIUR?
+R: Sì, è prevista una borsa di studio aggiuntiva messa a disposizione dal MIUR per gli studenti che conseguono almeno 12 CFU all'estero. L'importo è specificato nel bando.
+Categoria: Burocrazia e Documenti Pre-Partenza
+D: Cos'è il contratto economico Erasmus e quando si riceve?
+R: È un contratto tra lo studente e il Politecnico che regola l'erogazione della borsa di studio. Viene inviato via email dall'Ufficio Relazioni Internazionali circa un mese prima della partenza. Le tempistiche possono variare in base alla data di inizio della mobilità.
+D: A chi devo rivolgermi se non ho ancora ricevuto il contratto economico e la partenza è imminente?
+R: Puoi scrivere una mail per sollecitare l'invio del contratto all'Ufficio Relazioni Internazionali, contattando la Dott.ssa Sammarco o il Dott. Ricchiuto.
+D: Entro quando va preparato il Learning Agreement (LA) per chi parte al secondo semestre?
+R: Generalmente c'è più tempo rispetto a chi parte al primo semestre. La scadenza dipende dall'università ospitante, ma di solito può essere inviato anche verso dicembre/gennaio. È sempre meglio prepararlo con anticipo.
+D: Cos'è il corso di lingua OLS? È obbligatorio?
+R: L'OLS (Online Linguistic Support) è una piattaforma online che prevede un test di valutazione linguistica iniziale e finale, entrambi obbligatori. Prevede anche un corso di lingua facoltativo ma consigliato da seguire durante la mobilità.
+D: Quando si ricevono le credenziali per il test di lingua OLS?
+R: Le credenziali vengono inviate via email dall'ufficio Erasmus. Solitamente vengono inviate dopo la ricezione del certificato di arrivo presso la sede estera. Se l'università ospitante lo richiede prima, è necessario contattare l'Ufficio Relazioni Internazionali per farsi inviare l'invito.
+D: È possibile cambiare meta dopo essere risultati vincitori?
+R: Generalmente non è possibile. In casi eccezionali, bisogna parlarne con la Dott.ssa Sammarco e con il proprio coordinatore Erasmus, ma la richiesta viene raramente accettata.
+Categoria: Tesi e Prolungamento
+D: È possibile richiedere un prolungamento del periodo Erasmus per svolgere la tesi o un tirocinio?
+R: Sì, è possibile. È necessario parlarne con il proprio coordinatore Erasmus e con l'Ufficio Relazioni Internazionali per capire la procedura esatta per la richiesta di prolungamento della mobilità.
+
+
+Certamente. Ho analizzato il nuovo frammento di conversazione e ho estratto solo le domande di natura informativa e procedurale, scartando quelle personali ("Qualcuno va a Bilbao?").
+
+Ecco un elenco di domande generiche, ideali per essere inserite nei file del tuo chatbot RAG, suddivise per categoria.
+
+Categoria: Burocrazia e Documenti Pre-Partenza
+
+D: Qual è la procedura di "nomination" richiesta da alcune università estere? Devo fare qualcosa io?
+
+R: La "nomination" è la comunicazione ufficiale che il Politecnico invia all'università ospitante per presentare gli studenti selezionati. Solitamente è un processo gestito dall'Ufficio Relazioni Internazionali (Dott.ssa Sammarco). È consigliabile contattare l'ufficio per assicurarsi che il proprio nominativo sia stato inviato, specialmente se si avvicina la scadenza per l'application dell'università estera.
+
+D: Il Learning Agreement (LA) va compilato prima o dopo l'iscrizione all'università ospitante?
+
+R: Il Learning Agreement va preparato e approvato prima della partenza e spesso è un documento richiesto durante la procedura di application/iscrizione dell'università ospitante.
+
+D: Dove trovo il modulo per il Learning Agreement (LA)?
+
+R: Il modulo ufficiale del Learning Agreement si trova tra gli allegati del bando Erasmus sul sito del Politecnico.
+
+D: Come si ottiene l'approvazione del Learning Agreement?
+
+R: Devi compilare il modulo con gli esami che intendi sostenere e inviarlo via email al coordinatore Erasmus del tuo dipartimento (es. Prof. MAIONE per il DEI, Prof. Torresi per il DMMM, ecc.) per l'approvazione e la firma.
+
+D: Il coordinatore Erasmus non risponde alle email, come posso fare?
+
+R: È un problema comune. Si consiglia di essere insistenti: inviare più email e provare a contattare il docente anche tramite Teams. Chiamare o presentarsi durante gli esami non è una strategia consigliata. L'insistenza tramite i canali ufficiali è il modo migliore per ottenere una risposta.
+
+D: È possibile cambiare meta dopo che è stata assegnata?
+
+R: Generalmente non è possibile. In passato, richieste di questo tipo sono state respinte. Bisogna parlarne con l'Ufficio Relazioni Internazionali e il proprio coordinatore, ma le possibilità sono molto basse.
+
+Categoria: Aspetti Finanziari e Borse di Studio
+
+D: Durante l'Erasmus, devo continuare a pagare le tasse al Politecnico?
+
+R: Sì, l'iscrizione al Politecnico rimane attiva e le tasse universitarie devono essere pagate regolarmente.
+
+D: Cosa devo fare se non ho ancora ricevuto la borsa di studio dopo il rientro?
+
+R: Se non hai ricevuto il saldo della borsa Erasmus (il 20% finale) o la borsa MIUR, contatta la Dott.ssa Sammarco per sollecitare l'ufficio competente. Per la borsa MIUR, che dipende da fondi ministeriali, puoi chiedere informazioni anche al delegato all'internazionalizzazione, Prof. Giaquinto.
+
+D: La borsa di studio MIUR copre l'intero periodo di mobilità se prolungato a un anno?
+
+R: La borsa MIUR è un contributo aggiuntivo. La sua estensione per periodi superiori a un semestre dipende dalla disponibilità dei fondi. È consigliabile chiedere chiarimenti al Prof. Giaquinto.
+
+D: Quanti CFU/esami devo convalidare per avere diritto alla borsa di studio?
+
+R: Per avere diritto all'intera borsa di studio (sia quella UE che quella MIUR) è necessario convalidare almeno 12 CFU.
+
+Categoria: Corsi, Esami e Convalida
+
+D: Uno studente di magistrale può scegliere esami della triennale all'estero?
+
+R: Dipende dall'università ospitante. Molte università permettono di scegliere corsi da diversi cicli di studio (triennale e magistrale), ma è sempre bene verificare le regole specifiche della facoltà di destinazione.
+
+D: Posso sostenere esami al Poliba durante il periodo Erasmus?
+
+R: No, durante il periodo di mobilità la carriera al Poliba è "congelata". Non è possibile sostenere esami in Italia. In casi eccezionali, un professore potrebbe concedere di sostenere l'esame per poi verbalizzarlo dopo il rientro ufficiale, ma è una concessione non ufficiale e va concordata privatamente.
+
+D: È possibile convalidare crediti per corsi di lingua frequentati all'estero?
+
+R: Dipende dal coordinatore Erasmus del proprio dipartimento. Alcuni coordinatori (es. Prof. Maione per il DEI) hanno confermato che i corsi di lingua che rilasciano ECTS possono essere convalidati come "esami a scelta". È una decisione che spetta al coordinatore, quindi va sempre richiesta un'approvazione preventiva.
+
+Categoria: Erasmus Traineeship
+
+D: Per il bando Traineeship, devo trovare io l'azienda/ateneo ospitante?
+
+R: Sì, a differenza dell'Erasmus per studio, per il Traineeship è lo studente che deve trovare l'ente ospitante e ottenere una lettera di accettazione prima di partecipare al bando.
+
+D: Quando escono le graduatorie del bando Traineeship?
+
