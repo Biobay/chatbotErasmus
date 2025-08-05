@@ -23,12 +23,79 @@ dist-ssr
 *.sln
 *.sw?
 
+# Python Virtual Environment (CRITICAL - File troppo grandi per GitHub)
+venv/
+backend/venv/
+env/
+.env/
+.venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyTorch e librerie ML (file troppo grandi)
+*.dylib
+*.so.*
+**/torch/
+**/torchvision/
+**/torchaudio/
+**/site-packages/torch/
+**/site-packages/PIL/
+**/site-packages/numpy/
+**/site-packages/scipy/
+**/site-packages/sklearn/
+**/site-packages/transformers/
+
 # Vector database (ricostruito al deploy)
 backend/vector_db/
 
-# Python cache
+# Python cache specifici
 backend/app/__pycache__/
 backend/app/services/__pycache__/
 
-# Logs
-*.log
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
